@@ -1,0 +1,6 @@
+api:
+  iex:
+    cloud:
+      url: "https://api.iex.cloud/v1/data/CORE"
+      token: "sk_e037be756df94ce6b06fd89981a1f5c1"
+
